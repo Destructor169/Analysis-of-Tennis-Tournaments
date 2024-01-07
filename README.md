@@ -12,3 +12,4 @@ Utilized pandas and matplotlib libraries.
 #Course Context
 
 The Data Narrative formed part of the ES-114: Probability, Statistics, and Data Visualization course offered to first-year B.Tech students in April '23 at the Indian Institute of Technology, Gandhinagar.
+## Note: Some other Data narrative files have also been uploaded which were done in the same course.
