@@ -1,9 +1,9 @@
 # Analysis-of-Tennis-Tournaments
 This repository contains a Data Narrative created as part of a course project. The analysis focused on 4 different Tennis Tournaments, employing Python to merge datasets and extract insights related to gaming pattens. The project showcased skills in data analysis, visualization, statistics, and domain knowledge, utilizing the pandas, numpy and matplotlib libraries.
 
-###Project Highlights
+#Project Highlights
 
-###Data Analysis Process
+#Data Analysis Process
 Analyzed Dataset of 4 International Tennis Tournaments using Python.
 Leveraged skills in data analysis, visualization, statistics, and domain knowledge.
 Utilized pandas and matplotlib libraries.
